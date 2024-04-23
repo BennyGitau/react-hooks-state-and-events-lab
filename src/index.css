@@ -34,7 +34,7 @@ select {
 
 span[role="image"] {
   color: transparent;
-  text-shadow: 0 0 0 black;
+  text-shadow: 0 0 0 rgb(156, 53, 53);
 }
 
 .App.dark {
